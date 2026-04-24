@@ -81,8 +81,6 @@ cd adaptive-learning-mentor
 
 如果你是直接下载 ZIP 文件，解压后用 VS Code 打开项目根目录即可。
 
-值得注意的是，直接下载 ZIP 文件解压后文件目录会有 -master，需要把这个删掉
-
 ### 3. 在 VS Code 中打开项目
 
 1. 打开 VS Code。
